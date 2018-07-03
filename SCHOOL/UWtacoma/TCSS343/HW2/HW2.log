@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  2 JUL 2018 19:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  2 JUL 2018 20:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -148,6 +148,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--17
 [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
+
+ []
+
 [2] (./HW2.aux) ) 
 Here is how much of TeX's memory you used:
  2224 strings out of 492649
@@ -165,7 +169,7 @@ cm/cmmi8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm
 mr8.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
 10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8
 .pfb>
-Output written on HW2.pdf (2 pages, 79038 bytes).
+Output written on HW2.pdf (2 pages, 81006 bytes).
 PDF statistics:
  39 PDF objects out of 1000 (max. 8388607)
  27 compressed objects within 1 object stream
